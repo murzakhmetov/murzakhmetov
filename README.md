@@ -33,3 +33,6 @@
 - 📫 How to reach me: - [Telegram](https://t.me/dialikhan_na#)
 
 ---
+### 📫 How to reach me
+- [Telegram](https://t.me/dialikhan_na#)
+---
