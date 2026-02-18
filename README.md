@@ -30,8 +30,14 @@
 - 🔭 I’m currently working with React Library,JS,node.js and working as Software Engineer in my Team's project
 - 🛡️ Fan of clean code, automation, and Linux tools
 - 🌱 Always learning: JS, APIs, and Computer Science
-- 📫 How to reach me: - [Telegram](https://t.me/dialikhan_na#)
 
+---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murzakhmetov&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murzakhmetov&layout=compact&theme=github_dark" height="160">
+</p>
 ---
 ### 📫 How to reach me
 - [Telegram](https://t.me/dialikhan_na#)
