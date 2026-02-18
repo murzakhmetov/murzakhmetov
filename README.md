@@ -32,13 +32,9 @@
 - 🌱 Always learning: JS, APIs, and Computer Science
 
 ---
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murzakhmetov&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murzakhmetov&layout=compact&theme=github_dark" height="160">
-</p>
----
 ### 📫 How to reach me
+
 - [Telegram](https://t.me/dialikhan_na#)
+
 ---
