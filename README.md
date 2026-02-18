@@ -1,5 +1,13 @@
 ## Hi, I'm Alikhan 👋
 
+<p align="center">
+  <b>Web developer (jun)</b><br/>
+  <a href="https://github.com/murzakhmetov" target="_blank">
+    <img src="https://img.shields.io/github/followers/murzakhmetov?label=Follow&style=social" alt="GitHub"/>
+  </a>
+</p>
+
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -10,13 +18,6 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
-
-<p align="center">
-  <b>Web developer (jun)</b><br/>
-  <a href="https://github.com/murzakhmetov" target="_blank">
-    <img src="https://img.shields.io/github/followers/murzakhmetov?label=Follow&style=social" alt="GitHub"/>
-  </a>
 </p>
 
 <p align="center">
