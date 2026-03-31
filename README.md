@@ -1,7 +1,7 @@
 ## Hi, I'm Alikhan 👋
 
 <p align="center">
-  <b>Web developer (jun)</b><br/>
+  <b>Developer (jun)</b><br/>
   <a href="https://github.com/murzakhmetov" target="_blank">
     <img src="https://img.shields.io/github/followers/murzakhmetov?label=Follow&style=social" alt="GitHub"/>
   </a>
@@ -16,15 +16,14 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&lo
 
 ---
 
